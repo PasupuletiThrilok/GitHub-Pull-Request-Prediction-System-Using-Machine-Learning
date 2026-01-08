@@ -379,7 +379,9 @@ penalty='l2'             # L2 regularization
 
 ### Model Performance Summary
 
-![Model Comparison](results/model_comparison.png)
+<img width="2233" height="1185" alt="model_comparison" src="https://github.com/user-attachments/assets/47950daa-2652-4c24-92e2-6171c98ab42a" />
+
+<img width="5370" height="2970" alt="model_comparison_fixed" src="https://github.com/user-attachments/assets/88d0fdbb-a408-4f88-9623-eb1f7b852883" />
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC | Training Time |
 |-------|----------|-----------|--------|----------|---------|---------------|
@@ -910,6 +912,32 @@ If you use this project in your research, please cite:
 
 - Email: thrilokpvc@gmail.com
 - GitHub: [@PasupuletiThrilok](https://github.com/PasupuletiThrilok)
+
+**Note on environment setup**
+The project source code is fully available in this repository.
+The virtual environment (venv) is **not tracked here** due to its large size.
+
+If you specifically need the preconfigured environment for quick setup or reproducibility, you can download it from this Google Drive link:
+[https://drive.google.com/file/d/1zXNDFZnCXuDjMn-g0JTjsrPXgLMzWbzA/view?usp=sharing]
+
+However, the recommended approach is to install dependencies using the provided requirements.txt file.
+
+**Before using this project**
+Please go through the README carefully. It explains:
+the **core idea** of the project
+the **problem it addresses**
+the **author’s motivation** behind building it
+and the **intended use cases**
+Understanding this context is important before reusing, extending, or presenting this work.
+
+**Contributions welcome**
+If you find this project useful and would like to improve it, you are welcome to:
+open issues
+suggest enhancements
+or contribute directly via **pull requests**
+This is an open invitation to collaborate and help evolve the project further.
+
+— Author & Maintainer
 
 For questions, suggestions, or collaboration opportunities, feel free to reach out!
 
