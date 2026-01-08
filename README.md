@@ -396,19 +396,25 @@ penalty='l2'             # L2 regularization
 
 ### Confusion Matrices
 
-![Confusion Matrices](results/confusion_matrices.png)
+<img width="1785" height="885" alt="confusion_matrices" src="https://github.com/user-attachments/assets/8131b7fb-10ac-45cb-9e1c-f10d4307f4ea" />
+
+<img width="4411" height="2369" alt="confusion_matrices_fixed" src="https://github.com/user-attachments/assets/02d6016b-fe30-4ff8-89d5-2784f42f2c46" />
 
 The confusion matrices show how each model performs on Accept vs Reject predictions. XGBoost shows the best balance between true positives and true negatives.
 
 ### ROC Curves
 
-![ROC Curves](results/roc_curves.png)
+<img width="1185" height="885" alt="roc_curves" src="https://github.com/user-attachments/assets/9ccf0275-13ee-47ee-9074-7e7c2f883d98" />
+
+<img width="2538" height="2113" alt="roc_curves_fixed" src="https://github.com/user-attachments/assets/b50a3f1f-5822-4faa-9c90-6450468d7181" />
 
 All models show strong ROC-AUC scores (0.80-0.89), indicating good discrimination ability between accepted and rejected PRs.
 
 ### Feature Importance
 
-![Feature Importance](results/feature_importance.png)
+<img width="1485" height="885" alt="feature_importance" src="https://github.com/user-attachments/assets/20a87e0c-92cf-494f-b8d7-a21799d09757" />
+
+<img width="3570" height="2369" alt="feature_importance_fixed" src="https://github.com/user-attachments/assets/bc8aa96e-250e-4d2f-b17c-ab1c02d4b60a" />
 
 **Top 10 Most Important Features:**
 
