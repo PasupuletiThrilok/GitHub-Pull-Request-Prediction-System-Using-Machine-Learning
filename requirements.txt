@@ -1,0 +1,32 @@
+# Core Data Science Libraries
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+
+# CPU-Optimized ML Libraries (PRIMARY - Install these!)
+lightgbm==4.1.0
+xgboost==2.0.3
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Data Collection
+requests==2.31.0
+python-dotenv==1.0.0
+GitPython==3.1.32
+beautifulsoup4==4.12.2
+
+# Code Analysis
+ast-tools==0.1.0
+tokenize-rt==5.1.0
+
+# Utilities
+joblib==1.3.2
+tqdm==4.66.1
+
+# Development
+jupyter==1.0.0
+
+# Optional: Progress bars
+alive-progress==3.1.5
