@@ -913,16 +913,16 @@ If you use this project in your research, please cite:
 - Email: thrilokpvc@gmail.com
 - GitHub: [@PasupuletiThrilok](https://github.com/PasupuletiThrilok)
 
-**Note on environment setup**
+## Note on environment setup
 The project source code is fully available in this repository.
 The virtual environment (venv) is **not tracked here** due to its large size.
 
 If you specifically need the preconfigured environment for quick setup or reproducibility, you can download it from this Google Drive link:
-[https://drive.google.com/file/d/1zXNDFZnCXuDjMn-g0JTjsrPXgLMzWbzA/view?usp=sharing]
+https://drive.google.com/file/d/1zXNDFZnCXuDjMn-g0JTjsrPXgLMzWbzA/view?usp=sharing
 
 However, the recommended approach is to install dependencies using the provided requirements.txt file.
 
-**Before using this project**
+## Before using this project
 Please go through the README carefully. It explains:
 the **core idea** of the project
 the **problem it addresses**
@@ -930,7 +930,7 @@ the **author’s motivation** behind building it
 and the **intended use cases**
 Understanding this context is important before reusing, extending, or presenting this work.
 
-**Contributions welcome**
+## Contributions welcome
 If you find this project useful and would like to improve it, you are welcome to:
 open issues
 suggest enhancements
